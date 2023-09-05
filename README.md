@@ -1,4 +1,12 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mudit Dhingra</h1>
+<h3 align="center">I've started with Github</h3>
+
+- 🔭 I’m in my xyz year in xyz course in UPES, Dehradun.
+- 🌱 I’m presently learning  xyz
+- 💬My hobbies are xyz
+
+- ⚡ Fun fact about me :   *Fun Fact*
 
 <!--
 **DhingraMudit/DhingraMudit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
